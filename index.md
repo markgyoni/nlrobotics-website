@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to New Lothrop Robotics
 
-![Team Logo](/assets/img/sample/logo.png)
+<!-- ![Team Logo](/assets/img/sample/logo.png) -->
 
 ## About Our Team
 
